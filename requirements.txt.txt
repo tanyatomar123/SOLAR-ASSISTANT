@@ -1,0 +1,9 @@
+# Core Libraries
+gradio==4.13.0
+opencv-python==4.9.0.80
+Pillow==10.1.0
+numpy==1.26.0
+
+# Optional (for future enhancements)
+# python-dotenv==1.0.0  # Uncomment if using .env for configs
+# torch==2.1.0          # Uncomment for local AI model support
