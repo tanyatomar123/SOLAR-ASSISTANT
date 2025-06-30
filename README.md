@@ -1,7 +1,5 @@
 # 🌞 AI Solar Assistant
 
-![Demo Screenshot](demo.gif)  
-*Interactive solar potential analysis from rooftop images*
 
 ## 📌 Overview
 An AI-powered tool that analyzes rooftop images to estimate solar panel installation potential, including:
@@ -23,8 +21,11 @@ An AI-powered tool that analyzes rooftop images to estimate solar panel installa
 - Python 3.8+
 - pip package manager
 
-### Quick Start
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ai-solar-assistant.git
-cd ai-solar-assistant# solar-assistant
+
+SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/75295866-7850-475b-946b-ee54ecee653e)
+![image](https://github.com/user-attachments/assets/e43ad62f-1bc8-447f-8ac3-e1c791be0638)
+![image](https://github.com/user-attachments/assets/bc4310ad-5a7a-46c0-891a-5a63a717fc2d)
+
+
